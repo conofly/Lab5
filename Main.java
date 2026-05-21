@@ -5,5 +5,7 @@ public class Main {
         System.out.println("Это изменение ветке dev 2");
         System.out.println("Это изменение ветке dev 3");
         System.out.println("Это изменение ветке dev 4");
+        System.out.println("Изменение Main перед слиянием");
+
     }
 }
